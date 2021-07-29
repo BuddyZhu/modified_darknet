@@ -7,7 +7,7 @@ we have uploaded our configuration file and dataset.
 To train it,
 
 First do: 
-git clone https://github.com/BuddyZhu/modified_darknet.git
+</br>git clone https://github.com/BuddyZhu/modified_darknet.git
 then:
 make 
 last: 
