@@ -1,0 +1,40 @@
+yolov3
+Learning Rate: 0.001, Momentum: 0.9, Decay: 0.0005
+Resizing
+544
+Loaded: 1.178469 seconds
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.585628, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.134144, Class: 0.256050, Obj: 0.174590, No Obj: 0.518519, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.198083, Class: 0.637232, Obj: 0.320350, No Obj: 0.414956, .5R: 0.022556, .75R: 0.000000,  count: 133
+Region 82 Avg IOU: 0.171562, Class: 0.639266, Obj: 0.559144, No Obj: 0.585305, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.519990, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.223058, Class: 0.597273, Obj: 0.322988, No Obj: 0.415988, .5R: 0.097222, .75R: 0.000000,  count: 72
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.586127, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.198844, Class: 0.377870, Obj: 0.425912, No Obj: 0.519247, .5R: 0.000000, .75R: 0.000000,  count: 6
+Region 106 Avg IOU: 0.233924, Class: 0.615577, Obj: 0.325823, No Obj: 0.415674, .5R: 0.076923, .75R: 0.000000,  count: 117
+Region 82 Avg IOU: 0.028430, Class: 0.787462, Obj: 0.517515, No Obj: 0.586214, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.043413, Class: 0.893330, Obj: 0.022491, No Obj: 0.519334, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.206259, Class: 0.612363, Obj: 0.328630, No Obj: 0.415958, .5R: 0.028571, .75R: 0.000000,  count: 70
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.584843, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.227426, Class: 0.395724, Obj: 0.392637, No Obj: 0.518814, .5R: 0.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: 0.206436, Class: 0.620797, Obj: 0.287469, No Obj: 0.414978, .5R: 0.076923, .75R: 0.000000,  count: 65
+Region 82 Avg IOU: 0.073249, Class: 0.724555, Obj: 0.426686, No Obj: 0.586492, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.200763, Class: 0.411801, Obj: 0.435534, No Obj: 0.519830, .5R: 0.000000, .75R: 0.000000,  count: 3
+Region 106 Avg IOU: 0.240098, Class: 0.593120, Obj: 0.328897, No Obj: 0.414891, .5R: 0.065789, .75R: 0.013158,  count: 76
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.585244, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.047467, Class: 0.404058, Obj: 0.238859, No Obj: 0.519361, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.231727, Class: 0.606261, Obj: 0.328908, No Obj: 0.414683, .5R: 0.061947, .75R: 0.000000,  count: 113
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.585985, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.107873, Class: 0.732068, Obj: 0.361427, No Obj: 0.519951, .5R: 0.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: 0.249486, Class: 0.652969, Obj: 0.324357, No Obj: 0.414618, .5R: 0.080000, .75R: 0.000000,  count: 100
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.585501, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.519871, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.260549, Class: 0.594438, Obj: 0.331671, No Obj: 0.414446, .5R: 0.104651, .75R: 0.011628,  count: 86
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.585875, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.193236, Class: 0.538629, Obj: 0.320956, No Obj: 0.519195, .5R: 0.000000, .75R: 0.000000,  count: 3
+Region 106 Avg IOU: 0.209850, Class: 0.600938, Obj: 0.321444, No Obj: 0.415483, .5R: 0.052632, .75R: 0.000000,  count: 57
+Region 82 Avg IOU: 0.209202, Class: 0.791491, Obj: 0.883898, No Obj: 0.586834, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.092563, Class: 0.733485, Obj: 0.623625, No Obj: 0.519436, .5R: 0.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: 0.225083, Class: 0.593530, Obj: 0.303689, No Obj: 0.415663, .5R: 0.065041, .75R: 0.000000,  count: 123
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.585966, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.323738, Class: 0.562394, Obj: 0.654182, No Obj: 0.518710, .5R: 0.000000, .75R: 
