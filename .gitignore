@@ -16,6 +16,8 @@ decaf/
 submission/
 darknet
 .fuse*
+cfg/yolov3.weights
+darknet53.conv.74
 
 # OS Generated #
 .DS_Store*
