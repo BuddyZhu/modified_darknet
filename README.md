@@ -6,8 +6,12 @@ we have uploaded our configuration file and dataset.
 
 To train it,
 
-First do: git clone https://github.com/BuddyZhu/modified_darknet.git
-then: make last: cd ~/modfied_darknet ./modfied_darknet detector train /cfg/obj.data /cfg/yolov3-tiny.cfg ./darknet53.conv.74 > /backup/train.log
+First do: 
+git clone https://github.com/BuddyZhu/modified_darknet.git
+then:
+make 
+last: 
+cd ~/modfied_darknet ./modfied_darknet detector train /cfg/obj.data /cfg/yolov3-tiny.cfg ./darknet53.conv.74 > /backup/train.log
 
 The trained weights will be saved in /backup/weights/yolov3-tiny_final.weights
 
